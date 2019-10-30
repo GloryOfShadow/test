@@ -15,7 +15,7 @@ f 为横竖开关，该功能目前暂未开放
 
 把步骤一的内容经过[加密网站](http://tools.bm8.com.cn/xxtea/)加密后，会得到 base64_encode 代码。如：
 
-![加密](https://github.com/GloryOfShadow/test/blob/master/images/xxtea.jpg)
+![加密](https://gitee.com/ozoyjc/TestGit/blob/master/xxtea.png)
 
 ## 三、提交
 
